@@ -15,7 +15,7 @@ In the component there is an audio device in chop that needs to use the es-9 as 
 
 ### Selecting a channel
 
-You can select a channel by clicking on it on the left side of the interface.
+You can select a channel by clicking on one of the inputs on the left side of the interface.
 To right side is context sensitive and always show settings for the selected channel.
 
 ### Channel setting
