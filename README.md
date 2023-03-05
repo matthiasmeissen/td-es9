@@ -1,6 +1,6 @@
 # td-es9
 
-A component for TouchDesigner to get signals from the Expert Sleepers ES-9 Module and map them to a specific range.
+A component for TouchDesigner to get signals from the Expert Sleepers ES-9 and map them to a specific range.
 
 ## How to install
 
