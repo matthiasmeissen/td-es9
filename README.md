@@ -4,7 +4,7 @@ A component for TouchDesigner to get and modify signals from the Expert Sleepers
 
 ## How to install
 
-Download the latest release and drop the tox file into an existing project.
+Download the [latest release](https://github.com/matthiasmeissen/td-es9/releases/tag/1.0.0) and drop the tox file into an existing project.
 
 ## How to use
 
