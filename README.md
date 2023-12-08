@@ -1,4 +1,4 @@
-# TD ES9
+# TD ES-9
 
 A component for TouchDesigner to get and modify signals from the Expert Sleepers ES-9 Module.
 
